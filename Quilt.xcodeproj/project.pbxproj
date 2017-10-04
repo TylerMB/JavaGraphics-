@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5B7162701F8312CD00E9C5D0 /* Square.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Square.java; sourceTree = "<group>"; };
+		5B7162731F83236000E9C5D0 /* QuiltApp.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = QuiltApp.java; sourceTree = "<group>"; };
+		5B7162741F83239000E9C5D0 /* Quilt.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Quilt.java; sourceTree = "<group>"; };
+		5B7162751F83287500E9C5D0 /* Layer.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Layer.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5B7162691F83129C00E9C5D0 = {
+			isa = PBXGroup;
+			children = (
+				5B7162751F83287500E9C5D0 /* Layer.java */,
+				5B7162741F83239000E9C5D0 /* Quilt.java */,
+				5B7162731F83236000E9C5D0 /* QuiltApp.java */,
+				5B7162701F8312CD00E9C5D0 /* Square.java */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5B71626A1F83129C00E9C5D0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+			};
+			buildConfigurationList = 5B71626D1F83129C00E9C5D0 /* Build configuration list for PBXProject "Quilt" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5B7162691F83129C00E9C5D0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5B71626E1F83129C00E9C5D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5B71626F1F83129C00E9C5D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5B71626D1F83129C00E9C5D0 /* Build configuration list for PBXProject "Quilt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5B71626E1F83129C00E9C5D0 /* Debug */,
+				5B71626F1F83129C00E9C5D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5B71626A1F83129C00E9C5D0 /* Project object */;
+}
